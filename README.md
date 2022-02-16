@@ -6,7 +6,7 @@ I'm an **Android Developer** who experienced in programming language such as **K
 - ✨ I would like to learn more about technology, software development, and big data in order to improve my skill and experience.
 
 ### Tech Stack
-  <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" title="Firebase" width="21px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" /></a>
   <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" /></a>
   <a href="https://developer.android.com/studio"><img align="left" alt="Android Studio" title="Android Studio" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/768px-Android_Studio_Icon_%282014-2019%29.svg.png?20210301045443" /></a>
