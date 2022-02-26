@@ -1,5 +1,7 @@
 ### Hi!👋 I'm Dany.
 
+![](https://komarev.com/ghpvc/?username=stefanus-dany&style=plastic)
+
 I'm an **Android Developer** who experienced in programming language such as **Kotlin** and **Java**. Currently, I am a final year student at University of Brawijaya and majoring in Informatics Engineering.
 
 - 🔭 I love to create and share projects about mobile development especially Android Development. 
