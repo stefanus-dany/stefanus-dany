@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=stefanus-dany&style=plastic)
 
-I'm an **Android Developer** who experienced in programming language such as **Kotlin** and **Java**. Currently, I am a final year student at University of Brawijaya and majoring in Informatics Engineering.
+I'm an **Android Developer** experienced in programming language such as **Kotlin** and **Java**. Currently, I am a final year student at University of Brawijaya and majoring in Computer Science.
 
-- 🔭 I love to create and share projects about mobile development especially Android Development. 
-- ✨ I would like to learn more about technology, software development, and big data in order to improve my skill and experience.
+- 🔭 I love creating and sharing projects about mobile development especially Android Development. 
+- ✨ I would like to learn more about technology, software development, and big data to improve my skills and experiences.
 
 ### Tech Stack
   <a href="https://firebase.google.com/"><img align="left" alt="Firebase" title="Firebase" width="21px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /></a>
